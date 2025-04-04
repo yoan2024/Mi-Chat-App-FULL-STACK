@@ -1,4 +1,4 @@
-import Navegation from "@/components/Barnav";
+import Navegation from "@/components/Navegation";
 
 export default function RootLayout({
   children,
@@ -17,80 +17,113 @@ export default function RootLayout({
           dicta error unde dignissimos deserunt, atque doloribus sint sequi
           cumque quam consequuntur esse sed. Non repudiandae officia cupiditate
           soluta omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Quisquam neque, soluta impedit aut tempore in aperiam velit fugit
-          earum voluptatem quae. Non, laboriosam aut harum maiores esse earum
-          eius corporis?Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Facilis illo dicta error unde dignissimos deserunt, atque doloribus
-          sint sequi cumque quam consequuntur esse sed. Non repudiandae officia
+          Quisquam neque, soluta im repudiandae officia cupiditate soluta omnis.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+          neque, soluta impedit aut tempore in aperiam velit fugit earum
+          voluptatem quae. Non, laboriosam aut harum maiores esse earum eius
+          corporis? se sed. Non repudiandae officia cupiditate soluta omnis.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+          neque, soluta im repudiandae officia cupiditate soluta omnis. Lorem
+          ipsum dolor sit amet consectetur adipisicing elit. Quisquam neque,
+          soluta impedit aut tempore in aperiam velit fugit earum voluptatem
+          quae. Non, laboriosam aut harum maiores esse earum eius se sed. Non
+          repudiandae officia cupiditate soluta omnis. Lorem ipsum dolor sit
+          amet consectetur adipisicing elit. Quisquam neque, soluta im
+          repudiandae officia cupiditate soluta omnis. Lorem ipsum dolor sit
+          amet consectetur adipisicing elit. Quisquam neque, soluta impedit aut
+          tempore in aperiam velit fugit earum voluptatem quae. Non, laboriosam
+          aut harum maiores esse earum eius se sed. Non repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta im repudiandae officia
           cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
           adipisicing elit. Quisquam neque, soluta impedit aut tempore in
           aperiam velit fugit earum voluptatem quae. Non, laboriosam aut harum
-          maiores esse earum eius corporis? Lorem ipsum dolor sit amet
-          consectetur adipisicing elit. Facilis illo dicta error unde
-          dignissimos deserunt, atque doloribus sint sequi cumque quam
-          consequuntur esse sed. Non repudiandae officia cupiditate soluta
-          omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Quisquam neque, soluta impedit aut tempore in aperiam velit fugit
-          earum voluptatem quae. Non, laboriosam aut harum maiores esse earum
-          eius corporis? Lorem ipsum dolor sit amet consectetur adipisicing
-          elit. Facilis illo dicta error unde dignissimos deserunt, atque
-          doloribus sint sequi cumque quam consequuntur esse sed. Non
+          maiores esse earum eius se sed. Non repudiandae officia cupiditate
+          soluta omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Quisquam neque, soluta im repudiandae officia cupiditate soluta omnis.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+          neque, soluta impedit aut tempore in aperiam velit fugit earum
+          voluptatem quae. Non, laboriosam aut harum maiores esse earum eius se
+          sed. Non repudiandae officia cupiditate soluta omnis. Lorem ipsum
+          dolor sit amet consectetur adipisicing elit. Quisquam neque, soluta im
           repudiandae officia cupiditate soluta omnis. Lorem ipsum dolor sit
           amet consectetur adipisicing elit. Quisquam neque, soluta impedit aut
           tempore in aperiam velit fugit earum voluptatem quae. Non, laboriosam
-          aut harum maiores esse earum eius corporis? Lorem ipsum dolor sit amet
-          consectetur adipisicing elit. Facilis illo dicta error unde
-          dignissimos deserunt, atque doloribus sint sequi cumque quam
-          consequuntur esse sed. Non repudiandae officia cupiditate soluta
-          omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Quisquam neque, soluta impedit aut tempore in aperiam velit fugit
-          earum voluptatem quae. Non, laboriosam aut harum maiores esse earum
-          eius corporis? Lorem ipsum dolor sit amet consectetur adipisicing
-          elit. Facilis illo dicta error unde dignissimos deserunt, atque
-          doloribus sint sequi cumque quam consequuntur esse sed. Non
+          aut harum maiores esse earum eius se sed. Non repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta im repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta impedit aut tempore in
+          aperiam velit fugit earum voluptatem quae. Non, laboriosam aut harum
+          maiores esse earum eius se sed. Non repudiandae officia cupiditate
+          soluta omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Quisquam neque, soluta im repudiandae officia cupiditate soluta omnis.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+          neque, soluta impedit aut tempore in aperiam velit fugit earum
+          voluptatem quae. Non, laboriosam aut harum maiores esse earum eius se
+          sed. Non repudiandae officia cupiditate soluta omnis. Lorem ipsum
+          dolor sit amet consectetur adipisicing elit. Quisquam neque, soluta im
           repudiandae officia cupiditate soluta omnis. Lorem ipsum dolor sit
           amet consectetur adipisicing elit. Quisquam neque, soluta impedit aut
           tempore in aperiam velit fugit earum voluptatem quae. Non, laboriosam
-          aut harum maiores esse earum eius corporis? Lorem ipsum dolor sit amet
-          consectetur adipisicing elit. Facilis illo dicta error unde
-          dignissimos deserunt, atque doloribus sint sequi cumque quam
-          consequuntur esse sed. Non repudiandae officia cupiditate soluta
-          omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Quisquam neque, soluta impedit aut tempore in aperiam velit fugit
-          earum voluptatem quae. Non, laboriosam aut harum maiores esse earum
-          eius corporis? Lorem ipsum dolor sit amet consectetur adipisicing
-          elit. Facilis illo dicta error unde dignissimos deserunt, atque
-          doloribus sint sequi cumque quam consequuntur esse sed. Non
+          aut harum maiores esse earum eius se sed. Non repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta im repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta impedit aut tempore in
+          aperiam velit fugit earum voluptatem quae. Non, laboriosam aut harum
+          maiores esse earum eius se sed. Non repudiandae officia cupiditate
+          soluta omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Quisquam neque, soluta im repudiandae officia cupiditate soluta omnis.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+          neque, soluta impedit aut tempore in aperiam velit fugit earum
+          voluptatem quae. Non, laboriosam aut harum maiores esse earum eius se
+          sed. Non repudiandae officia cupiditate soluta omnis. Lorem ipsum
+          dolor sit amet consectetur adipisicing elit. Quisquam neque, soluta im
           repudiandae officia cupiditate soluta omnis. Lorem ipsum dolor sit
           amet consectetur adipisicing elit. Quisquam neque, soluta impedit aut
           tempore in aperiam velit fugit earum voluptatem quae. Non, laboriosam
-          aut harum maiores esse earum eius corporis? Lorem ipsum dolor sit amet
-          consectetur adipisicing elit. Facilis illo dicta error unde
-          dignissimos deserunt, atque doloribus sint sequi cumque quam
-          consequuntur esse sed. Non repudiandae officia cupiditate soluta
-          omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Quisquam neque, soluta impedit aut tempore in aperiam velit fugit
-          earum voluptatem quae. Non, laboriosam aut harum maiores esse earum
-          eius corporis? Lorem ipsum dolor sit amet consectetur adipisicing
-          elit. Facilis illo dicta error unde dignissimos deserunt, atque
-          doloribus sint sequi cumque quam consequuntur esse sed. Non
+          aut harum maiores esse earum eius se sed. Non repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta im repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta impedit aut tempore in
+          aperiam velit fugit earum voluptatem quae. Non, laboriosam aut harum
+          maiores esse earum eius se sed. Non repudiandae officia cupiditate
+          soluta omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Quisquam neque, soluta im repudiandae officia cupiditate soluta omnis.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+          neque, soluta impedit aut tempore in aperiam velit fugit earum
+          voluptatem quae. Non, laboriosam aut harum maiores esse earum eius se
+          sed. Non repudiandae officia cupiditate soluta omnis. Lorem ipsum
+          dolor sit amet consectetur adipisicing elit. Quisquam neque, soluta im
           repudiandae officia cupiditate soluta omnis. Lorem ipsum dolor sit
           amet consectetur adipisicing elit. Quisquam neque, soluta impedit aut
           tempore in aperiam velit fugit earum voluptatem quae. Non, laboriosam
-          aut harum maiores esse earum eius corporis? Lorem ipsum dolor sit amet
-          consectetur adipisicing elit. Facilis illo dicta error unde
-          dignissimos deserunt, atque doloribus sint sequi cumque quam
-          consequuntur esse sed. Non repudiandae officia cupiditate soluta
-          omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Quisquam neque, soluta impedit aut tempore in aperiam velit fugit
-          earum voluptatem quae. Non, laboriosam aut harum maiores esse earum
-          eius corporis? Lorem ipsum dolor sit amet consectetur adipisicing
-          elit. Facilis illo dicta error unde dignissimos deserunt, atque
-          doloribus sint sequi cumque quam consequuntur esse sed. Non
+          aut harum maiores esse earum eius se sed. Non repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta im repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta impedit aut tempore in
+          aperiam velit fugit earum voluptatem quae. Non, laboriosam aut harum
+          maiores esse earum eius se sed. Non repudiandae officia cupiditate
+          soluta omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          Quisquam neque, soluta im repudiandae officia cupiditate soluta omnis.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
+          neque, soluta impedit aut tempore in aperiam velit fugit earum
+          voluptatem quae. Non, laboriosam aut harum maiores esse earum eius se
+          sed. Non repudiandae officia cupiditate soluta omnis. Lorem ipsum
+          dolor sit amet consectetur adipisicing elit. Quisquam neque, soluta im
           repudiandae officia cupiditate soluta omnis. Lorem ipsum dolor sit
           amet consectetur adipisicing elit. Quisquam neque, soluta impedit aut
           tempore in aperiam velit fugit earum voluptatem quae. Non, laboriosam
-          aut harum maiores esse earum eius corporis?
+          aut harum maiores esse earum eius se sed. Non repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta im repudiandae officia
+          cupiditate soluta omnis. Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Quisquam neque, soluta impedit aut tempore in
+          aperiam velit fugit earum voluptatem quae. Non, laboriosam aut harum
+          maiores esse earum eius
         </p>
       </div>
     </div>

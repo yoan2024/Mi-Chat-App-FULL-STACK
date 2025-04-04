@@ -15,11 +15,11 @@
 }
 
 .lista-nav {
-  @apply text-gray-700 flex  flex-row justify-center items-center gap-10  max-md:hidden;
+  @apply text-gray-700  flex  flex-row justify-center items-center gap-10  max-md:hidden;
 }
 
 .layout-navegation {
-  @apply flex flex-row justify-around  border-b-2 border-solid border-transparent transition-colors duration-75 ease-in-out   h-[130px] overflow-hidden fixed top-0 w-full;
+  @apply flex flex-col gap-5  justify-center   border-b-2 border-solid border-transparent transition-colors duration-75 ease-in-out  fixed top-0 w-full;
 }
 
 .items-nav {
@@ -28,4 +28,16 @@
 
 .flecha {
   @apply text-xs;
+}
+
+.tarjetaFunciones {
+  @apply w-[500px]  flex flex-col items-center justify-between py-5   px-5  gap-5 bg-sky-50 p-8 rounded-3xl;
+}
+
+.tituloFunciones {
+  @apply self-start text-3xl font-bold text-black text-opacity-70;
+}
+
+.parrafoFunciones {
+  @apply text-2xl text-gray-700 text-opacity-70 font-medium;
 }
